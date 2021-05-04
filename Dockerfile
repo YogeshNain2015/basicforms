@@ -13,4 +13,4 @@ RUN . myenv/bin/activate
 RUN pip install django
 RUN pip freeze > requirements.txt
 
-CMD [ "exec", "-it", "sh" ]
+CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
