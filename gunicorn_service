@@ -1,11 +1,11 @@
 #!/bin/bash 
   
 NAME="basicforms"                                 # Name of the application 
-DJANGODIR=/home/ubuntu/level3BasicForms/            # Django project directory 
+DJANGODIR=/usr/local/bin/basicforms/            # Django project directory 
 #SOCKFILE=/home/ubuntu/level3BasicForms/basicforms/run/gunicorn.sock # we will communicte using this unix socket 
 SOCKFILE=localhost:8000
-USER=ubuntu                                       # the user to run as 
-GROUP=ubuntu                                    # the group to run as 
+USER=$(getent group sudo | cut -c11-)                                       # the user to run as 
+GROUP=$(getent group sudo | cut -c11-)                                    # the group to run as 
 NUM_WORKERS=3                                    # how many worker processes should Gunicorn spawn 
 DJANGO_SETTINGS_MODULE=basicforms.settings            # which settings file should Django use 
 DJANGO_WSGI_MODULE=basicforms.wsgi                    # WSGI module name 
@@ -24,7 +24,7 @@ export PYTHONPATH=$DJANGODIR:$PYTHONPATH
   
 # Start your Django Unicorn 
 # Programs meant to be run under supervisor should not daemonize themselves (do not use --daemon) 
-exec /home/ubuntu/level3BasicForms/venv/bin/gunicorn ${DJANGO_WSGI_MODULE}:application \ 
+exec /usr/local/bin/basicforms/venv/bin/gunicorn ${DJANGO_WSGI_MODULE}:application \ 
  --name $NAME \ 
  --workers $NUM_WORKERS \ 
  --user=$USER --group=$GROUP \ 
