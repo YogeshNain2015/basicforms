@@ -1,0 +1,121 @@
+Starting basicforms as ubuntu
+/home/ubuntu/level3BasicForms/gunicorn_service: line 16: Source: command not found
+[2021-05-15 16:14:58 +0000] [3032] [INFO] Starting gunicorn 20.1.0
+[2021-05-15 16:14:58 +0000] [3032] [INFO] Listening at: http://127.0.0.1:8000 (3032)
+[2021-05-15 16:14:58 +0000] [3032] [INFO] Using worker: sync
+[2021-05-15 16:14:58 +0000] [3039] [INFO] Booting worker with pid: 3039
+[2021-05-15 16:15:37 +0000] [3032] [INFO] Handling signal: term
+[2021-05-15 16:15:37 +0000] [3039] [INFO] Worker exiting (pid: 3039)
+[2021-05-15 16:15:37 +0000] [3032] [INFO] Shutting down: Master
+Starting basicforms as ubuntu
+/home/ubuntu/level3BasicForms/gunicorn_service: line 16: Source: command not found
+[2021-05-15 16:15:39 +0000] [3043] [INFO] Starting gunicorn 20.1.0
+[2021-05-15 16:15:39 +0000] [3043] [INFO] Listening at: http://127.0.0.1:8000 (3043)
+[2021-05-15 16:15:39 +0000] [3043] [INFO] Using worker: sync
+[2021-05-15 16:15:39 +0000] [3048] [INFO] Booting worker with pid: 3048
+[2021-05-15 16:51:42 +0000] [3043] [INFO] Handling signal: term
+[2021-05-15 16:51:42 +0000] [3048] [INFO] Worker exiting (pid: 3048)
+[2021-05-15 16:51:42 +0000] [3043] [INFO] Shutting down: Master
+Starting basicforms as ubuntu
+/home/ubuntu/level3BasicForms/gunicorn_service: line 17: Source: command not found
+[2021-05-15 16:51:42 +0000] [3195] [INFO] Starting gunicorn 20.1.0
+[2021-05-15 16:51:42 +0000] [3195] [INFO] Listening at: http://127.0.0.1:8000 (3195)
+[2021-05-15 16:51:42 +0000] [3195] [INFO] Using worker: sync
+[2021-05-15 16:51:42 +0000] [3199] [INFO] Booting worker with pid: 3199
+[2021-05-15 18:34:26 +0000] [3195] [INFO] Handling signal: term
+[2021-05-15 18:34:26 +0000] [3199] [INFO] Worker exiting (pid: 3199)
+[2021-05-15 18:34:26 +0000] [3195] [INFO] Shutting down: Master
+Starting basicforms as ubuntu
+/home/ubuntu/level3BasicForms/gunicorn_service: line 17: Source: command not found
+[2021-05-15 18:34:29 +0000] [3538] [INFO] Starting gunicorn 20.1.0
+[2021-05-15 18:34:29 +0000] [3538] [INFO] Listening at: http://127.0.0.1:8000 (3538)
+[2021-05-15 18:34:29 +0000] [3538] [INFO] Using worker: sync
+[2021-05-15 18:34:29 +0000] [3542] [INFO] Booting worker with pid: 3542
+[2021-05-15 18:46:59 +0000] [3538] [INFO] Handling signal: term
+[2021-05-15 18:46:59 +0000] [3542] [INFO] Worker exiting (pid: 3542)
+[2021-05-15 18:46:59 +0000] [3538] [INFO] Shutting down: Master
+Starting basicforms as ubuntu
+/home/ubuntu/level3BasicForms/gunicorn_service: line 17: Source: command not found
+[2021-05-15 18:47:01 +0000] [3604] [INFO] Starting gunicorn 20.1.0
+[2021-05-15 18:47:01 +0000] [3604] [INFO] Listening at: http://127.0.0.1:8000 (3604)
+[2021-05-15 18:47:01 +0000] [3604] [INFO] Using worker: sync
+[2021-05-15 18:47:01 +0000] [3608] [INFO] Booting worker with pid: 3608
+[2021-05-15 18:48:21 +0000] [3604] [INFO] Handling signal: term
+[2021-05-15 18:48:21 +0000] [3608] [INFO] Worker exiting (pid: 3608)
+[2021-05-15 18:48:21 +0000] [3604] [INFO] Shutting down: Master
+Starting basicforms as ubuntu
+/home/ubuntu/level3BasicForms/gunicorn_service: line 17: Source: command not found
+[2021-05-15 18:48:21 +0000] [3612] [INFO] Starting gunicorn 20.1.0
+[2021-05-15 18:48:21 +0000] [3612] [INFO] Listening at: http://127.0.0.1:8000 (3612)
+[2021-05-15 18:48:21 +0000] [3612] [INFO] Using worker: sync
+[2021-05-15 18:48:21 +0000] [3616] [INFO] Booting worker with pid: 3616
+[2021-05-15 18:54:04 +0000] [3612] [INFO] Handling signal: term
+[2021-05-15 18:54:04 +0000] [3616] [INFO] Worker exiting (pid: 3616)
+[2021-05-15 18:54:04 +0000] [3612] [INFO] Shutting down: Master
+Starting basicforms as ubuntu
+/home/ubuntu/level3BasicForms/gunicorn_service: line 17: Source: command not found
+[2021-05-15 18:54:06 +0000] [3666] [INFO] Starting gunicorn 20.1.0
+[2021-05-15 18:54:06 +0000] [3666] [INFO] Listening at: http://127.0.0.1:8000 (3666)
+[2021-05-15 18:54:06 +0000] [3666] [INFO] Using worker: sync
+[2021-05-15 18:54:06 +0000] [3670] [INFO] Booting worker with pid: 3670
+[2021-05-15 18:56:00 +0000] [3666] [INFO] Handling signal: term
+[2021-05-15 18:56:00 +0000] [3670] [INFO] Worker exiting (pid: 3670)
+[2021-05-15 18:56:00 +0000] [3666] [INFO] Shutting down: Master
+Starting basicforms as ubuntu
+/home/ubuntu/level3BasicForms/gunicorn_service: line 17: Source: command not found
+[2021-05-15 18:56:01 +0000] [3682] [INFO] Starting gunicorn 20.1.0
+[2021-05-15 18:56:01 +0000] [3682] [INFO] Listening at: http://127.0.0.1:8000 (3682)
+[2021-05-15 18:56:01 +0000] [3682] [INFO] Using worker: sync
+[2021-05-15 18:56:01 +0000] [3686] [INFO] Booting worker with pid: 3686
+[2021-05-15 18:58:28 +0000] [3682] [INFO] Handling signal: term
+[2021-05-15 18:58:28 +0000] [3686] [INFO] Worker exiting (pid: 3686)
+[2021-05-15 18:58:28 +0000] [3682] [INFO] Shutting down: Master
+Starting basicforms as ubuntu
+/home/ubuntu/level3BasicForms/gunicorn_service: line 17: Source: command not found
+[2021-05-15 18:58:30 +0000] [3695] [INFO] Starting gunicorn 20.1.0
+[2021-05-15 18:58:30 +0000] [3695] [INFO] Listening at: http://127.0.0.1:8000 (3695)
+[2021-05-15 18:58:30 +0000] [3695] [INFO] Using worker: sync
+[2021-05-15 18:58:30 +0000] [3699] [INFO] Booting worker with pid: 3699
+[2021-05-15 18:58:37 +0000] [3695] [INFO] Handling signal: term
+[2021-05-15 18:58:37 +0000] [3699] [INFO] Worker exiting (pid: 3699)
+[2021-05-15 18:58:37 +0000] [3695] [INFO] Shutting down: Master
+Starting basicforms as ubuntu
+/home/ubuntu/level3BasicForms/gunicorn_service: line 17: Source: command not found
+[2021-05-15 18:58:38 +0000] [3704] [INFO] Starting gunicorn 20.1.0
+[2021-05-15 18:58:38 +0000] [3704] [INFO] Listening at: http://127.0.0.1:8000 (3704)
+[2021-05-15 18:58:38 +0000] [3704] [INFO] Using worker: sync
+[2021-05-15 18:58:38 +0000] [3708] [INFO] Booting worker with pid: 3708
+[2021-05-15 19:31:44 +0000] [3704] [INFO] Handling signal: term
+[2021-05-15 19:31:44 +0000] [3708] [INFO] Worker exiting (pid: 3708)
+[2021-05-15 19:31:44 +0000] [3704] [INFO] Shutting down: Master
+Starting basicforms as ubuntu
+/home/ubuntu/level3BasicForms/gunicorn_service: line 17: Source: command not found
+[2021-05-15 19:31:46 +0000] [3990] [INFO] Starting gunicorn 20.1.0
+[2021-05-15 19:31:46 +0000] [3990] [INFO] Listening at: http://127.0.0.1:8000 (3990)
+[2021-05-15 19:31:46 +0000] [3990] [INFO] Using worker: sync
+[2021-05-15 19:31:46 +0000] [3994] [INFO] Booting worker with pid: 3994
+[2021-05-15 19:34:34 +0000] [3990] [INFO] Handling signal: term
+[2021-05-15 19:34:34 +0000] [3994] [INFO] Worker exiting (pid: 3994)
+[2021-05-15 19:34:34 +0000] [3990] [INFO] Shutting down: Master
+Starting basicforms as ubuntu
+/home/ubuntu/level3BasicForms/gunicorn_service: line 17: ./venv/bin/activate: Permission denied
+[2021-05-15 19:34:35 +0000] [4038] [INFO] Starting gunicorn 20.1.0
+[2021-05-15 19:34:35 +0000] [4038] [INFO] Listening at: http://127.0.0.1:8000 (4038)
+[2021-05-15 19:34:35 +0000] [4038] [INFO] Using worker: sync
+[2021-05-15 19:34:35 +0000] [4042] [INFO] Booting worker with pid: 4042
+[2021-05-15 19:39:57 +0000] [4038] [INFO] Handling signal: term
+[2021-05-15 19:39:57 +0000] [4042] [INFO] Worker exiting (pid: 4042)
+[2021-05-15 19:39:57 +0000] [4038] [INFO] Shutting down: Master
+Starting basicforms as ubuntu
+[2021-05-15 19:39:58 +0000] [4104] [INFO] Starting gunicorn 20.1.0
+[2021-05-15 19:39:58 +0000] [4104] [INFO] Listening at: http://127.0.0.1:8000 (4104)
+[2021-05-15 19:39:58 +0000] [4104] [INFO] Using worker: sync
+[2021-05-15 19:39:58 +0000] [4109] [INFO] Booting worker with pid: 4109
+[2021-05-15 19:55:56 +0000] [4104] [INFO] Handling signal: term
+[2021-05-15 19:55:56 +0000] [4109] [INFO] Worker exiting (pid: 4109)
+[2021-05-15 19:55:56 +0000] [4104] [INFO] Shutting down: Master
+Starting basicforms as ubuntu
+[2021-05-18 03:21:19 +0000] [625] [INFO] Starting gunicorn 20.1.0
+[2021-05-18 03:21:20 +0000] [625] [INFO] Listening at: http://127.0.0.1:8000 (625)
+[2021-05-18 03:21:20 +0000] [625] [INFO] Using worker: sync
+[2021-05-18 03:21:20 +0000] [686] [INFO] Booting worker with pid: 686
