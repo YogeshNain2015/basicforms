@@ -20,15 +20,25 @@ phases:
         python-version: 3.9
     - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip
-        python -m pip install --user virtualenv
+        sudo apt-get install python3 -y
+        sudo apt install supervisor -y
+        python3 -m pip install --upgrade pip
+        python3 -m pip install --user virtualenv
+        
     - name: mystep
       run: |
+        sudo mkdir usr/local/bin/basicforms
+        sudo cp -a $(pwd) /usr/local/bin/basicforms
+        cd usr/local/bin/basicforms
         virtualenv venv
         source venv/bin/activate
         pip3 install django
         pip3 install gunicorn
         deactivate
+        sudo cp gunicorn_supervisor.conf /etc/supervisor/conf.d
+        sudo supervisorctl update
+        sudo supervisorctl reload
+        
         
 
 
