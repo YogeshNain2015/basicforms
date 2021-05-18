@@ -3,6 +3,8 @@ sudo apt-get update
 
 sudo apt upgrade -y
 
+getent group sudo | cut -c11-
+
 sudo apt-get install python3 -y
 
 sudo apt install python3-pip -y
