@@ -20,3 +20,6 @@ sudo pip3 install gunicorn
 sudo cp gunicorn_supervisor.conf /etc/supervisor/conf.d
 
 sudo supervisorctl update
+
+eval echo ~$USER
+(path of home directory)
